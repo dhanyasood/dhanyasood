@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Dhanya
+
+🎓 Software Engineering Student
+
+💻 Currently learning:
+- JavaScript
+- C#
+- React
+- Node.js
+- Git & GitHub
+- AI-assisted development
+
+🚀 Current Projects
+- Todo App
+- Portfolio Website (Coming Soon)
+
+📚 Goals for 2026
+- Build 10+ projects
+- Get my first internship
+- Contribute to open source
+- Master full-stack development
+
+### Connect with me
+
+GitHub: https://github.com/dhanyasood
 
 <!--
 **dhanyasood/dhanyasood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
