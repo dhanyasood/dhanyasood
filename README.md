@@ -20,9 +20,7 @@
 - Contribute to open source
 - Master full-stack development
 
-### Connect with me
 
-GitHub: https://github.com/dhanyasood
 
 <!--
 **dhanyasood/dhanyasood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
